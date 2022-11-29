@@ -10,3 +10,8 @@
     height: 30px;
     background-color: var(--defaultBtncolor);
 }
+
+h2{
+    background-color: aquamarine;
+    font-size: 30px;
+}
